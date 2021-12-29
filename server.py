@@ -12,7 +12,7 @@ from colorama import Fore,Back,Style
 colorama.init()
 active_clients = []
 localIP = "172.99.0.1"
-server_port = 6115
+server_port = 2072
 destination_port = 13115
 bufferSize = 1024
 random_question = " "
